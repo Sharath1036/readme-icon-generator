@@ -1,1 +1,1 @@
-# readme-icon-gen
+# readme-icon-generator
